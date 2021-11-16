@@ -8,3 +8,9 @@ for x in szamok:
     osszeg=osszeg+x
     print(osszeg)
 print(osszeg)
+
+vane =False
+for x in szamok:
+    if (x==1):
+        vane=True
+print(vane)
