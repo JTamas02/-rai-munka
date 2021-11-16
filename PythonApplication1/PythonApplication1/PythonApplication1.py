@@ -1,6 +1,10 @@
 print("Működik a Git?")
 print("Mindjárt kiderül!")
-print("________________")
-print("Hello! Hogy vagy?")
-v1=input()
-print("Az jó. Zsia!")
+
+
+szamok=[3,4,2,7,8,1,9,7,3]
+osszeg=0
+for x in szamok:
+    osszeg=osszeg+x
+    print(osszeg)
+print(osszeg)
