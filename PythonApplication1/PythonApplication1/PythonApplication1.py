@@ -1,1 +1,6 @@
 print("Működik a Git?")
+print("Mindjárt kiderül!")
+print("________________")
+print("Hello! Hogy vagy?")
+v1=input()
+print("Az jó. Zsia!")
